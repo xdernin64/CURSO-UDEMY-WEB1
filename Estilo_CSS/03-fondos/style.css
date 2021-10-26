@@ -1,0 +1,39 @@
+body {
+    background:rgb(153, 150, 163);
+    /*color: blue;
+    background-size: 100%;
+    background-repeat: repeat;
+    background-attachment: fixed;
+    background-position: bottom;
+
+    background-image: url("fondo1.png");*/
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    
+
+
+
+}
+#caja{
+    border: solid 5px;
+    padding: 10x;
+    background-color: aqua ;
+    text-align: center;
+    line-height: 50px;
+    text-transform: uppercase;
+    text-decoration: double;
+    vertical-align: top;
+    
+}
+h2{
+    border: 10px solid green;
+    color: black;
+    background-color: white;
+}
+p{
+    font-size: x-large;
+    color: rgb(0, 0, 0);
+    text-indent: 18px;
+    word-spacing: 10px;
+    letter-spacing: 5px;
+}
