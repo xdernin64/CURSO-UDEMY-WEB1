@@ -1,0 +1,25 @@
+* {
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
+ul li:nth-child(2)
+{
+    color: aqua;
+}
+#enlac{
+    color: green;
+    font-size: larger;
+}
+#enlac:link{
+    color: rgb(9, 68, 68);
+}
+#enlac:visited{
+    color: salmon;
+}
+#enlac:hover{
+    color: blueviolet;
+}
+#enlac:active{
+    color: aquamarine;
+}
+input[type="text"]:focus {
+border: 4px solid rgb(12, 160, 37);
+}
